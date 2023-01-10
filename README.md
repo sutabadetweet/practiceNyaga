@@ -6,6 +6,8 @@
 <br>Welcome to Xcode が表示されないとき
 <br><br>Welcome to Xcode 自体はここから表示する。
 <br><img src="https://user-images.githubusercontent.com/121947495/211503242-7ba44cac-a1f1-4ec4-a2de-9ee7d66db2ae.png" width="50%" />
+<br>画像は編集スペースへコピペすると貼れます。
+<br>\<img src="{画像URL}" width="50%" />のような書き方で小さめに表示。
 <br>
 <br>GitHub上でのテキスト作成について
 <br>https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
