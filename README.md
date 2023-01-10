@@ -30,6 +30,8 @@
 <br>**コメントの書き方(Swift.orgのこのページの"Comments") p28に対応**
 <br>https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 <br>日本語版(昨年あたりから開発者が手分けして翻訳した日本語版もある)
+<br>https://www.swiftlangjp.com/language-guide/the-basics.html
+<br>
 <br>**シミュレーターについて(Simulator Overview)**
 <br>https://help.apple.com/simulator/mac/current/#/deve44b57b2a
 <br>
