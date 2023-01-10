@@ -42,5 +42,3 @@
 <br>https://www.swiftlangjp.com/welcome-to-swift/a-swift-tour.html
 <br>どこかのタイミングで(早いうちに)このサイトは読み込んでおくべき
 
-<br>・**シミュレーターについて(Simulator Overview)**おくべき
-<br>・**シミュレーターについて(Simulator Overview)**
