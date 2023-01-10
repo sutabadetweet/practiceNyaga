@@ -20,8 +20,9 @@
 <br>・\<br>タグをつける。(全ての行の先頭につけるなども見かける)
 <br>タグの前に\バックスラッシュ(option+¥)を書くとタグが表示される。
 <br>
-## Appleの一次情報がどこかにあるのでその存在や読むことに慣れておく
-・**Xcodeについて**
+## Appleの一次情報がどこかにあるのでその存在に慣れておく
+ここはChapter1の内容についての一次情報リンク
+<br>・**Xcodeについて**
 <br>https://developer.apple.com/documentation/xcode
 <br>
 <br>・プロジェクトを作る(Creating an Xcode project for an app) p14からに対応
