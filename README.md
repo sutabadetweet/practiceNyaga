@@ -20,21 +20,21 @@
 <br>・\<br>タグをつける。(全ての行の先頭につけるなども見かける)
 <br>タグの前に\バックスラッシュ(option+¥)を書くとタグが表示される。
 <br>
-## Appleの一次情報へアクセスすることに慣れておく
-<br>・**Xcodeについて**
+## Appleの一次情報がどこかにあるのでその存在や読むことに慣れておく
+・**Xcodeについて**
 <br>https://developer.apple.com/documentation/xcode
 <br>
 <br>・プロジェクトを作る(Creating an Xcode project for an app) p14からに対応
 <br>https://developer.apple.com/documentation/xcode/creating-an-xcode-project-for-an-app
 <br>
-<br>**コメントの書き方(Swift.orgのこのページの"Comments") p28に対応**
+<br>・**コメントの書き方(Swift.orgのこのページの"Comments") p28に対応**
 <br>https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 <br>日本語版(昨年あたりから開発者が手分けして翻訳した日本語版もある)
 <br>https://www.swiftlangjp.com/language-guide/the-basics.html
 <br>
-<br>**シミュレーターについて(Simulator Overview)**
+<br>・**シミュレーターについて(Simulator Overview)**
 <br>https://help.apple.com/simulator/mac/current/#/deve44b57b2a
 <br>
-<br>**実機について(Running appsの3項目)**
+<br>・**実機について(Running appsの3項目)**
 <br>https://developer.apple.com/documentation/xcode/running-your-app-in-simulator-or-on-a-device
 <br>
