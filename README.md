@@ -38,3 +38,9 @@
 <br>・**実機について(Running appsの3項目)**
 <br>https://developer.apple.com/documentation/xcode/running-your-app-in-simulator-or-on-a-device
 <br>
+<br>・**Playgroundとそこでの練習Tour**
+<br>https://www.swiftlangjp.com/welcome-to-swift/a-swift-tour.html
+<br>どこかのタイミングで(早いうちに)このサイトは読み込んでおくべき
+
+<br>・**シミュレーターについて(Simulator Overview)**おくべき
+<br>・**シミュレーターについて(Simulator Overview)**
